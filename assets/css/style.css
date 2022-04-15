@@ -74,18 +74,10 @@ html {
     margin-bottom: 58px;
 }
 
-
-main{
-
-}
-
 /* CSS-HEADER-SECITON */
 
 .clear {
     clear: both;
-}
-
-#header {
 }
 
 #banner-section {
@@ -167,11 +159,6 @@ main{
 
 
 /* css-slider-home */
-#slider{
-} 
-
-#slider .owl-carousel {
-}
 
 #slider .image-items {
     width: 100%;
